@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on a personal project.
+- 🔭 I’m currently working on a personal project and learning DevOps tools.
 - 🌱 I’m currently learning Kubernetes, reviving an old Perl project.
 - 👯 I’m looking to collaborate on anything useful.
 - 🤔 I’m looking for help with Kubernetes on Docker Desktop with GitHub.
