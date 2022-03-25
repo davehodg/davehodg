@@ -22,5 +22,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Kubernetes on Docker Desktop with GitHub.
 - 💬 Ask me about Perl and DevOps.
 - 📫 How to reach me: davehodg@gmail.com
+- 🐦 Find me on Twitter at [https://twitter.com/davehodg](https://twitter.com/davehodg)
+- 📝 My blog is at [https://twitter.com/davehodg](https://twitter.com/davehodg)
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I like cooking. I specialise in Chicken wings and crispy pork belly.
