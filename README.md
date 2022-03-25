@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m currently working on a personal project.
+- 🌱 I’m currently learning Kubernetes, reviving an old Perl project.
+# - 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with Kubernets on Docker Desktop with GitHub.
+- 💬 Ask me about Perl and DevOps.
+- 📫 How to reach me: davehodg@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I like cooking. I specialise in Chicken wings and crispy pork belly.
