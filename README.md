@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a personal project.
 - 🌱 I’m currently learning Kubernetes, reviving an old Perl project.
-- 👯 I’m looking to collaborate on anything usefule.
-- 🤔 I’m looking for help with Kubernets on Docker Desktop with GitHub.
+- 👯 I’m looking to collaborate on anything useful.
+- 🤔 I’m looking for help with Kubernetes on Docker Desktop with GitHub.
 - 💬 Ask me about Perl and DevOps.
 - 📫 How to reach me: davehodg@gmail.com
 - 😄 Pronouns: he/him.
